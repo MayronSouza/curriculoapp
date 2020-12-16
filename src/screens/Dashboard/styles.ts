@@ -43,21 +43,3 @@ export const CardContainer = styled.View`
   justify-content: center;
   align-items: center;
 `;
-
-export const Card = styled.View`
-  width: 60%;
-  border-radius: 5px;
-  background-color: #b8b3ae;
-  padding: 8px;
-`;
-
-export const CardHeader = styled.View`
-  align-items: center;
-`;
-
-export const CardHeaderText = styled.Text`
-  font-family: sans-serif;
-  font-size: 18px;
-`;
-
-export const CardContent = styled.View``;
